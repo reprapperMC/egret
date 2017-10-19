@@ -1,0 +1,5 @@
+﻿heat_bed_label_jig by Aleph Objects, Inc is licensed under the Creative Commons - Attribution - Share Alike v4.0 International license.
+
+http://creativecommons.org/licenses/by-sa/4.0/
+
+
